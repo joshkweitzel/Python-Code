@@ -1,0 +1,2 @@
+L;machine.csv;vendor;amdahl
+S;M_AVG;A;Y
